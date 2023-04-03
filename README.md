@@ -14,10 +14,18 @@ $ git clone git@github.com:jooaogbriel/project_threejs_ai && cd project_threejs_
 ```
 
 ```bash
-# Instalando dependências (Frontend e Backend)
+# Instalando dependências (Frontend)
 $ npm i
 
 # Rodando o projeto
 $ npm run dev
+
+```
+```bash
+# Instalando dependências (Backend)
+$ npm i
+
+# Rodando o projeto
+$ npm start
 
 ```
